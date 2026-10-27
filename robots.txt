@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fantastic-medovik-41d0b4.netlify.app/sitemap.xml
